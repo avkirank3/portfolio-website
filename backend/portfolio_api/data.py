@@ -1,0 +1,116 @@
+from pathlib import Path
+
+portfolio_data = {
+    "profile": {
+        "name": "Kiran Kumar A V",
+        "title": "Python Django & AI Developer",
+        "tagline": "I design intelligent systems, clean APIs, and high-impact digital experiences.",
+        "location": "Bengaluru, India",
+        "email": "avkirank3@gmail.com",
+        "phone": "+91 63618 54442",
+        "linkedin": "https://www.linkedin.com/in/kiran-kumar-a-v",
+        "resume": "/files/Kiran_Kumar_A_V_RESUME_PP.pdf",
+    },
+    "stats": [
+        {"label": "Years Experience", "value": "3+"},
+        {"label": "Python Projects", "value": "20+"},
+        {"label": "AI Solutions", "value": "8+"},
+        {"label": "Deployment Ready", "value": "100%"},
+    ],
+    "about": {
+        "summary": "I am a Python developer with expertise in Django, AI-driven product development, and full-stack problem solving. I build reliable backend systems, automation workflows, and user-centric interfaces with a focus on performance, clarity, and measurable business value.",
+        "highlights": [
+            "Backend engineering with Django and REST APIs",
+            "AI integrations for automation and decision support",
+            "Application architecture and deployment readiness",
+            "Strong documentation and clean maintainable code",
+        ],
+    },
+    "skills": {
+        "core": [
+            "Python",
+            "Django",
+            "Django REST Framework",
+            "JavaScript",
+            "React",
+            "REST APIs",
+            "SQL",
+            "PostgreSQL",
+            "Git",
+            "Docker",
+        ],
+        "ai": [
+            "LLM Integration",
+            "Prompt Engineering",
+            "AI Workflow Design",
+            "Python Automation",
+            "Data Analysis",
+            "NLP Concepts",
+            "Model Evaluation",
+        ],
+        "tools": [
+            "VS Code",
+            "GitHub",
+            "Postman",
+            "Figma",
+            "Power BI",
+            "Linux",
+            "CI/CD",
+        ],
+    },
+    "experience": [
+        {
+            "role": "Python / Django Developer",
+            "company": "Freelance & Product Work",
+            "period": "2022 - Present",
+            "description": "Designed and built Python/Django apps, workflow automation, and internal tooling to streamline business operations and improve digital experiences.",
+        },
+        {
+            "role": "AI & Automation Engineer",
+            "company": "Independent Projects",
+            "period": "2023 - Present",
+            "description": "Developed AI-assisted prototypes and intelligent automation flows that improve productivity, decision support, and user interaction.",
+        },
+        {
+            "role": "Full-Stack Contributor",
+            "company": "Project-Based Experience",
+            "period": "2021 - 2023",
+            "description": "Worked across backend, frontend, APIs, and system flow design to build responsive and deployable solutions for varied use cases.",
+        },
+    ],
+    "projects": [
+        {
+            "title": "AI Work Assistant",
+            "type": "Python + LLM Workflow",
+            "summary": "Built an intelligent assistant to organize tasks, summarize inputs, and support user workflows with contextual automation.",
+            "impact": "Improved productivity through faster information capture and actionability.",
+            "stack": ["Python", "Django", "OpenAI", "FastAPI"],
+        },
+        {
+            "title": "Portfolio & Personal Brand Platform",
+            "type": "React + Django",
+            "summary": "Created a premium portfolio site that blends strong visual identity, formal typography, and responsive sections for professional storytelling.",
+            "impact": "Delivered a lightweight, elegant personal presence with modern frontend polish.",
+            "stack": ["React", "Django", "REST API", "Vite"],
+        },
+        {
+            "title": "Business Data Workflow Dashboard",
+            "type": "Analytics & Automation",
+            "summary": "Developed dashboard-driven tools for tracking operational data, simplifying reporting, and reducing manual effort.",
+            "impact": "Reduced time spent on repetitive analysis and reporting tasks.",
+            "stack": ["Python", "Django", "SQL", "Charting"],
+        },
+    ],
+    "highlights": [
+        "Strong command of Python and Django ecosystem",
+        "AI-focused product thinking with practical implementation",
+        "Clean API design and maintainable architecture",
+        "Responsive frontend creation with polished UX",
+    ],
+    "contact": {
+        "cta": "Open to Python/Django development, AI product work, automation, and collaboration opportunities.",
+        "email": "avkirank3@gmail.com",
+        "phone": "+91 63618 54442",
+        "linkedin": "https://www.linkedin.com/in/kiran-kumar-a-v",
+    },
+}
