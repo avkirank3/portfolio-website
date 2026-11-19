@@ -6,20 +6,20 @@ const apiUrl = "http://localhost:8000/api/profile/";
 const defaultData = {
   profile: {
     name: "Kiran Kumar A V",
-    title: "Python Django & AI Developer",
-    tagline: "I design intelligent systems, clean APIs, and high-impact digital experiences.",
+    title: "Python & AI Developer",
+    tagline: "I design intelligent systems, clean APIs, and high-impact digital experiences with Django, FastAPI, Flask.",
     email: "avkirank3@gmail.com",
     phone: "+91 63618 54442",
     linkedin: "https://www.linkedin.com/in/kiran-kumar-a-v",
   },
   stats: [
     { label: "Years Experience", value: "3+" },
-    { label: "Python Projects", value: "20+" },
+    { label: "Python Projects", value: "10+" },
     { label: "AI Solutions", value: "8+" },
     { label: "Deployment Ready", value: "100%" },
   ],
   about: {
-    summary: "I am a Python developer with expertise in Django, AI-driven product development, and full-stack problem solving.",
+    summary: "I am a Python developer with expertise in Django, FastAPI, Flask, AI-driven product development, and full-stack problem solving.",
     highlights: [
       "Backend engineering with Django and REST APIs",
       "AI integrations for automation and decision support",
